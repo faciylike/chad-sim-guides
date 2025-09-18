@@ -62,3 +62,10 @@ layout: default
 
 　　安全第一！尽量避免在公开场合展示贵重手机，也要小心那些过于“热情”的街头推销员。说到底，一张本地手机卡是你探索这片土地的宝贵工具，管理好预期，它就能帮你大忙。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Chad eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/chad-data-plans)
